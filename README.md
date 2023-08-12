@@ -2,7 +2,9 @@
 
 Đồ án Trí Tuệ Nhân Tạo(Artificial Intelligence Project).\
 Đề tài: <span style="text-transform: uppercase;">***HỆ THỐNG TỐI ƯU HÓA HÀNH TRÌNH VẬN CHUYỂN ĐƠN HÀNG CHO CÔNG TY GIAO HÀNG NHANH SỬ DỤNG GIẢI THUẬT DI TRUYỀN***</span>.
-
+<p align="center">
+  <img src="image_url" alt="Alt Text">
+</p>
 ![Picture1](https://github.com/vhoang1206/UEH500-AI/assets/95456622/8a395700-9a4a-45a4-b3ba-aea2cc4de858)
 ![Picture2](https://github.com/vhoang1206/UEH500-AI/assets/95456622/6c124681-504a-4cdd-a18e-2508d95e1b6e)
 ![Picture3](https://github.com/vhoang1206/UEH500-AI/assets/95456622/9334d10f-0f79-4609-8a71-39c2188583a3)
