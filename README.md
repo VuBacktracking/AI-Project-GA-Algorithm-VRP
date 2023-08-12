@@ -19,5 +19,5 @@
 
 ## Cài đặt và sử dụng
 ```bash
-git clone https://github.com/vhoang1206/UEH500-AI.git
+git clone https://github.com/vhoang1206/UEH500-BIT42-AI-Project-GA-Algorithm-VRP.git
 ```
