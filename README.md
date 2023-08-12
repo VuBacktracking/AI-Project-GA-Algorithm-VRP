@@ -25,7 +25,7 @@ Mục tiêu của dự án là tối ưu hóa hoạt động giao hàng nhanh, t
 ```bash
 git clone https://github.com/vhoang1206/UEH500-BIT42-AI-Project-GA-Algorithm-VRP.git
 ```
-**Yêu cầu thư viện**
+**Yêu cầu thư viện**.
 Để sử dụng ứng dụng này, bạn cần cài đặt các thư viện sau:
 
 - Python (phiên bản 3.8 trở lên)
