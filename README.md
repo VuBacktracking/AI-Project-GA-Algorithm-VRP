@@ -3,7 +3,7 @@
 ## Đồ án Trí Tuệ Nhân Tạo(Artificial Intelligence Project).
 Đề tài: <span style="text-transform: uppercase;">***HỆ THỐNG TỐI ƯU HÓA HÀNH TRÌNH VẬN CHUYỂN ĐƠN HÀNG CHO CÔNG TY GIAO HÀNG NHANH SỬ DỤNG GIẢI THUẬT DI TRUYỀN***</span>.
 
-Đồ án này tập trung vào việc áp dụng Giải thuật Di truyền, một phương pháp tối ưu hóa heuristic đa dạng và mạnh mẽ, để giải quyết một trong những vấn đề trong lĩnh vực vận chuyển và giao hàng đó chính là tối ưu chi phí cũng như khoảng cách cho việc giao hàng của các chuyến giao hàng nhanh trên địa bàn phức tạp của thành phố Hồ Chí Minh. Mục tiêu của dồ án này là tối ưu hóa hoạt động giao hàng nhanh, từ việc xác định tuyến đường tối ưu cho người giao hàng đến việc tối thiểu hóa chi phí, khoảng cách. Thuật toán di truyền là một kỹ thuật tối ưu hóa mô phỏng quá trình tiến hóa tự nhiên, các giải pháp tốt hơn được tạo ra thông qua sự kết hợp và biến đổi của các cá thể. Bằng việc áp dụng giải thuật di truyền, bài toán tối ưu hành trình này đã được giải quyết tốt.
+Đồ án này tập trung vào việc sử dụng Giải thuật Di truyền, một phương pháp tối ưu hóa heuristic, nhằm giải quyết một trong những vấn đề trong lĩnh vực vận chuyển và giao hàng đó chính là tối ưu chi phí cũng như khoảng cách cho việc giao hàng của các chuyến giao hàng nhanh trên địa bàn phức tạp của thành phố Hồ Chí Minh. Mục tiêu của đồ án này là tối ưu hóa hoạt động giao hàng nhanh, xác định tuyến đường tối ưu cho người giao hàng thông qua việc tối thiểu hóa chi phí, khoảng cách. Thuật toán di truyền là một kỹ thuật tối ưu hóa mô phỏng quá trình tiến hóa tự nhiên, các giải pháp tốt hơn được tạo ra thông qua sự kết hợp và biến đổi của các cá thể. Bằng việc áp dụng giải thuật di truyền, bài toán tối ưu hành trình này đã được giải quyết tốt.
 
 ## Hình ảnh khi sử dụng 
 
