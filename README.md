@@ -13,6 +13,9 @@ Mục tiêu của đồ án này là tối ưu hóa hoạt động giao hàng nh
   <img src="https://github.com/vhoang1206/UEH500-BIT42-AI-Project-GA-Algorithm-VRP/blob/main/Images/Picture1.png" alt="Alt Text" width = 600>
 </p>
 <p align="center">
+  <img src="https://github.com/vhoang1206/UEH500-BIT42-AI-Project-GA-Algorithm-VRP/blob/main/Images/Picture4.png" alt="Alt Text" width = 600>
+</p>
+<p align="center">
   <img src="https://github.com/vhoang1206/UEH500-BIT42-AI-Project-GA-Algorithm-VRP/blob/main/Images/Picture2.png" alt="Alt Text" width = 600>
 </p>
 <p align="center">
