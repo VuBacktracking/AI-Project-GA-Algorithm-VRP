@@ -32,3 +32,6 @@ git clone https://github.com/vhoang1206/UEH500-BIT42-AI-Project-GA-Algorithm-VRP
 - Python (phiên bản 3.8 trở lên)
 - PyQt6 (phiên bản 6.5.0 trở lên)
 - Folium (phiên bản 0.12.0 trở lên)
+```bash
+$ pip install -r requirements.txt
+```
