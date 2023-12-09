@@ -24,7 +24,7 @@ Mục tiêu của đồ án này là tối ưu hóa hoạt động giao hàng nh
 
 ## Cài đặt và sử dụng
 ```bash
-git clone https://github.com/vhoang1206/UEH500-BIT42-AI-Project-GA-Algorithm-VRP.git
+$ git clone https://github.com/VuBacktracking/AI-Project-GA-Algorithm-VRP.git
 ```
 **Yêu cầu thư viện** \
 Để sử dụng, bạn cần cài đặt các thư viện sau:
